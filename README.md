@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yizhenpong
 - 👀 I’m interested in data science, mathematics, puzzle solving, contract bridge, table tennis, and sustainable finance.
-- 🌱 I’m currently seeking to polish my data science skillsets and make it a big part of my life.
+- 🌱 I’m currently seeking to polish my data science skillsets and making it a big part of my life.
 - 💞️ I’m looking to collaborate on any data science projects that may involve machine learning in any domain
 - 📫 Please reach out to me via yizhenpong at gmail dot com if you have any opportunities
 
